@@ -9,6 +9,6 @@ Here you’ll find dashboards and automation projects that showcase my ability t
 - [Lead Management Automation – Salesforce](Salesforce/README.md)
 
 ## 📫 Contact
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/souhaila-sadki/))
-- Email: souhailasadkiàoutlook.fr
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/souhaila-sadki/)
+- Email: souhailasadki@outlook.fr
 
